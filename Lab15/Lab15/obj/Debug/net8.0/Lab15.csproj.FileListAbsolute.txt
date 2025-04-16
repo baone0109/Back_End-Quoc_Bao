@@ -1,0 +1,4 @@
+C:\Users\Admin\OneDrive\Desktop\Back_End-CNTT17-03\Lab15\Lab15\obj\Debug\net8.0\Lab15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Back_End-CNTT17-03\Lab15\Lab15\obj\Debug\net8.0\Lab15.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Back_End-CNTT17-03\Lab15\Lab15\obj\Debug\net8.0\Lab15.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Back_End-CNTT17-03\Lab15\Lab15\obj\Debug\net8.0\Lab15.csproj.CoreCompileInputs.cache
